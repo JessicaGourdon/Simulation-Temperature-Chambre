@@ -7,5 +7,5 @@ Lors de la réalisation de ce projet, nous avons d'abord commencer par la créat
 Le premier objectif était de réaliser une simulation statique de la chaleur grâce à la résolution de l'équation de Poisson.
 Puis, l'objectif était de se servir des méthodes d'Euler implicite et explicite dans le but de résoudre l'équation de la chaleur et ainsi pouvoir observer une évolution au cours du temps de la température au sein de ces mêmes chambres.
 
-Voici un exemple de simulation :
-!(https://github.com/JessicaGourdon/Simulation-Temperature-Chambre/blob/main/HIVER-10%C2%B0-Porte15-CHAUFFAGE6-400.png)
+Voici un exemple de simulation : \
+![alt tex](https://github.com/JessicaGourdon/Simulation-Temperature-Chambre/blob/main/HIVER-10%C2%B0-Porte15-CHAUFFAGE6-400.png)
