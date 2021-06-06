@@ -11,4 +11,4 @@ Voici un exemple de simulation : \
 ![alt tex](https://github.com/JessicaGourdon/Simulation-Temperature-Chambre/blob/main/HIVER-10%C2%B0-Porte15-CHAUFFAGE6-400.png)
 
 Notre présentation se trouve ici : \
-![alt text] (https://github.com/JessicaGourdon/Simulation-Temperature-Chambre/blob/main/projet.pptx)
+>[url](https://github.com/JessicaGourdon/Simulation-Temperature-Chambre/blob/main/projet.pptx)
